@@ -8,7 +8,6 @@ from layoffs;
 -- 3. Null values or blank values
 -- 4. Remove any columns 
 
--- don't work on raw data always create a duplicate 
 
 create table layoffs_staging
 like layoffs;
